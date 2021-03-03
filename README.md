@@ -1,2 +1,2 @@
 # learning-python
-Repository of Python concepts
+Repository for Python concepts
